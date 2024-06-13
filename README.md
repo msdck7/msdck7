@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Chethan
-- This zipfile needs to extarcted.
+- This zipfile needs to be extarcted.
 - To run this code, we need to install vscode, after installing we need to download Html5 boilerplate,Css and javascript.
 - After installing the essential extension we can runn the code .
 
